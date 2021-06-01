@@ -1,4 +1,4 @@
-# Dicee Game
+# Dicee-Game
 
 A web application that generates two random dice throw (one for each player) and displays who won between player 1 or player 2. <br>
 In order to play again, the user must reload the web page. <br>
